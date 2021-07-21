@@ -1,0 +1,4 @@
+modulo.exports = {
+
+    mode: 'develope'
+}
